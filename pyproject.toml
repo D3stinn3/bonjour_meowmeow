@@ -17,6 +17,11 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+dependencies = [
+  "pandas",
+]
+
 [project.urls]
 "Homepage" = "https://github.com/null/bonjour_meowmeow"
 "Bug Tracker" = "https://github.com/null/bonjour_meowmeow/issues"
+
