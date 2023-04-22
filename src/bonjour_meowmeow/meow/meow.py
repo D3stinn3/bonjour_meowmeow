@@ -5,3 +5,4 @@ class Cat:
 
     def __call__(self):
         return f"Meow, je suis le chat `{self.name}`!"
+

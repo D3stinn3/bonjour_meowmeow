@@ -20,6 +20,8 @@ classifiers = [
 dependencies = [
   "pandas",
 ]
+[project.scripts]
+meowmeow = "bonjour_meowmeow.__main__:main"
 
 [project.urls]
 "Homepage" = "https://github.com/null/bonjour_meowmeow"
