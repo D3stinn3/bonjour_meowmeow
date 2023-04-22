@@ -1,5 +1,5 @@
 import sys
-from bonjour_meowmeow import Cat
+from meow import Cat
 
 def main():
     Cat("".join(sys.argv[1:]))

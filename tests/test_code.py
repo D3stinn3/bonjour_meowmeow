@@ -1,9 +1,9 @@
 import sys
 import unittest
 
-sys.path.append("C:\Users\destinne\Documents\bonjour_meowmeow\src\bonjour_meowmeow")
 
-from src.bonjour_meowmeow import Bonjour, Cat
+
+from bonjour_meowmeow import Cat, Bonjour
 
 
 class TestBonjour(unittest.TestCase):
